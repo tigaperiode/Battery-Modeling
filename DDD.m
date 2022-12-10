@@ -1,4 +1,4 @@
-%% 1 Cell Model
+    %% 1 Cell Model
 figure(3)
 plot(DoD*100,a1)
 
