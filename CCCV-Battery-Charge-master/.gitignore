@@ -1,0 +1,7 @@
+*
+!*/
+!*.py
+!*.res
+!*.eez-project
+!.gitignore
+!*.md
